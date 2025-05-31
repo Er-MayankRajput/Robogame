@@ -2,12 +2,13 @@
   "name": "robogame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Er-MayankRajput/Robogame.git",
+  "homepage": "https://github.com/Er-MayankRajput/Robogame",
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "git": "^0.1.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "tachyons": "^4.12.0"
   },
   "scripts": {
