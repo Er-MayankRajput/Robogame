@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Robogame/static/css/main.4920ae2e.css",
+    "main.js": "/Robogame/static/js/main.704e4711.js",
+    "index.html": "/Robogame/index.html",
+    "main.4920ae2e.css.map": "/Robogame/static/css/main.4920ae2e.css.map",
+    "main.704e4711.js.map": "/Robogame/static/js/main.704e4711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4920ae2e.css",
+    "static/js/main.704e4711.js"
+  ]
+}
