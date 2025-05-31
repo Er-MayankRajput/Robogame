@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/Er-MayankRajput/Robogame.git/static/css/main.4920ae2e.css",
-    "main.js": "/Er-MayankRajput/Robogame.git/static/js/main.704e4711.js",
-    "index.html": "/Er-MayankRajput/Robogame.git/index.html",
-    "main.4920ae2e.css.map": "/Er-MayankRajput/Robogame.git/static/css/main.4920ae2e.css.map",
-    "main.704e4711.js.map": "/Er-MayankRajput/Robogame.git/static/js/main.704e4711.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4920ae2e.css",
-    "static/js/main.704e4711.js"
-  ]
+    "main.css": "/Er-MayankRajput/Robogame/static/css/main.c64b3eb0.chunk.css",
+    "main.js": "/Er-MayankRajput/Robogame/static/js/main.929bbd22.chunk.js",
+    "main.js.map": "/Er-MayankRajput/Robogame/static/js/main.929bbd22.chunk.js.map",
+    "runtime~main.js": "/Er-MayankRajput/Robogame/static/js/runtime~main.3b41284d.js",
+    "runtime~main.js.map": "/Er-MayankRajput/Robogame/static/js/runtime~main.3b41284d.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/Er-MayankRajput/Robogame/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.fa8448ff.chunk.js": "/Er-MayankRajput/Robogame/static/js/2.fa8448ff.chunk.js",
+    "static/js/2.fa8448ff.chunk.js.map": "/Er-MayankRajput/Robogame/static/js/2.fa8448ff.chunk.js.map",
+    "index.html": "/Er-MayankRajput/Robogame/index.html",
+    "precache-manifest.fdbebd6b209aa1768eb932989369b9c1.js": "/Er-MayankRajput/Robogame/precache-manifest.fdbebd6b209aa1768eb932989369b9c1.js",
+    "service-worker.js": "/Er-MayankRajput/Robogame/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/Er-MayankRajput/Robogame/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.c64b3eb0.chunk.css.map": "/Er-MayankRajput/Robogame/static/css/main.c64b3eb0.chunk.css.map"
+  }
 }
