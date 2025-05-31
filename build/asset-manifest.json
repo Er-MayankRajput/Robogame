@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Er-MayankRajput/Robogame.git/static/css/main.4920ae2e.css",
+    "main.js": "/Er-MayankRajput/Robogame.git/static/js/main.704e4711.js",
+    "index.html": "/Er-MayankRajput/Robogame.git/index.html",
+    "main.4920ae2e.css.map": "/Er-MayankRajput/Robogame.git/static/css/main.4920ae2e.css.map",
+    "main.704e4711.js.map": "/Er-MayankRajput/Robogame.git/static/js/main.704e4711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4920ae2e.css",
+    "static/js/main.704e4711.js"
+  ]
+}
